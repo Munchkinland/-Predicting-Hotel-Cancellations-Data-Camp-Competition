@@ -1,5 +1,7 @@
 # Hotel Booking Cancellation Prediction
 
+![DALL·E 2024-01-03 15 22 04 - Create a Pixar animation style image, depicting a different scene in a hotel lobby with two receptionists and a geeky client  The receptionists, a man](https://github.com/Munchkinland/-Predicting-Hotel-Cancellations-Data-Camp-Competition/assets/92251234/c3dfee86-47a7-4a31-9fc6-063fec760f34)
+
 ✅Description
 This project focuses on creating and maintaining a prediction model to identify whether a hotel reservation will be canceled or not. The goal is to assist a specific hotel in increasing its revenue by optimizing reservation management. The model utilizes a dataset that includes detailed information about hotel reservations.
 
