@@ -29,7 +29,7 @@ A machine learning approach is employed to predict cancellations. Various models
 ✅Evaluation
 The model is evaluated using metrics such as accuracy, recall, and F1-score. A confusion matrix is also provided for a better understanding of the model's performance.
 
-# Hotel Booking Cancellation Prediction Project (Stacking Models)
+# Hotel Booking Cancellation Prediction (Stacking Models)
 
 🧑‍💻Project Overview
 This project aims to predict hotel booking cancellations using stacking model techniques. The primary goal is to assist hotels in understanding factors contributing to cancellations, allowing them to implement strategies to minimize them. The project uses the 'hotel_bookings.csv' dataset.
